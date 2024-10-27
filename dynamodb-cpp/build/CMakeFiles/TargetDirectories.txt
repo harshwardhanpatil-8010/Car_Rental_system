@@ -1,0 +1,3 @@
+/Users/harshwardhanpatil/Desktop/CAR_RENTAL_SYSTEM/dynamodb-cpp/build/CMakeFiles/main.dir
+/Users/harshwardhanpatil/Desktop/CAR_RENTAL_SYSTEM/dynamodb-cpp/build/CMakeFiles/edit_cache.dir
+/Users/harshwardhanpatil/Desktop/CAR_RENTAL_SYSTEM/dynamodb-cpp/build/CMakeFiles/rebuild_cache.dir
