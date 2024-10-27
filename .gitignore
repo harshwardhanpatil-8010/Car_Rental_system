@@ -1,2 +1,2 @@
 .vscode/
-.DS_Store      # macOS-specific system files
+.DS_Store/      # macOS-specific system files
